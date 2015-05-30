@@ -1,0 +1,1 @@
+# android_samsung_kyleopen_device
